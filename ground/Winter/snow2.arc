@@ -4,4 +4,9 @@ face snow2.111
 no_pick 1
 is_floor 1
 smoothlevel 25
+# This part only functions if you define a material for the snow.
+is_lightable 1
+food 1
+changing 1
+other_arch rain3_weather
 end

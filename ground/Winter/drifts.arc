@@ -9,4 +9,9 @@ move_slow walk
 move_slow_penalty 3
 is_floor 1
 smoothlevel 24
+# This part only functions if you define a material for the snow.
+is_lightable 1
+food 1
+changing 1
+other_arch rain5_weather
 end
