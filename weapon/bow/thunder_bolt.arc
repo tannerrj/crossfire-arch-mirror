@@ -7,7 +7,6 @@ is_animated 0
 food 10
 dam 100
 wc -10
-nrof 50
 type 13
 attacktype 9
 material 2
