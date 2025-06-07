@@ -1,5 +1,3 @@
-face dread.x11
-magicmap blue
 animation dread
 dread.x11
 dread.x12
@@ -8,4 +6,6 @@ dread.x14
 dread.x15
 dread.x16
 mina
+face dread.x11
+magicmap blue
 end

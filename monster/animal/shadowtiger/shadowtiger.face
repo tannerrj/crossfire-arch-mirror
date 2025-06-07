@@ -1,5 +1,3 @@
-face shadowtiger.x31
-magicmap black
 animation shadowtiger
 facings 2
 shadowtiger.x31
@@ -31,5 +29,7 @@ blank.111
 blank.111
 blank.111
 mina
+face shadowtiger.x31
+magicmap black
 end
 

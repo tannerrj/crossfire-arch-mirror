@@ -1,5 +1,3 @@
-face giantrat.x31
-magicmap black
 animation giantrat
 facings 2
 giantrat.x31
@@ -13,4 +11,6 @@ giantrat.x73
 giantrat.x72
 giantrat.x71
 mina
+face giantrat.x31
+magicmap black
 end

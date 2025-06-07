@@ -1,5 +1,3 @@
-face flamingtower.x11
-magicmap grey
 animation flaming_tower
 flamingtower.x11
 flamingtower.x12
@@ -14,4 +12,6 @@ flamingtower.x13
 flamingtower.x14
 flamingtower.x12
 mina
+face flamingtower.x11
+magicmap grey
 end

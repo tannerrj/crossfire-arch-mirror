@@ -1,5 +1,3 @@
-face chinese_dr.x71
-magicmap green
 animation chinese_dragon
 facings 2
 chinese_dr.x71
@@ -11,6 +9,8 @@ chinese_dr.x32
 chinese_dr.x33
 chinese_dr.x32
 mina
+face chinese_dr.x71
+magicmap green
 end
 animation chinese_dragon_spellcasting
 chinese_dr_spellcasting.x71

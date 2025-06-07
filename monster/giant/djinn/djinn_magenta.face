@@ -1,4 +1,3 @@
-face djinn_magenta.x11
 animation djinn_magenta
 facings 2
 djinn_magenta.x11
@@ -6,4 +5,5 @@ djinn_magenta.x12
 djinn_magenta.x21
 djinn_magenta.x22
 mina
+face djinn_magenta.x11
 end

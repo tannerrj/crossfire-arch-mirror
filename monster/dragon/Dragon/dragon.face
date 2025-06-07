@@ -1,5 +1,3 @@
-face dragon.x71
-magicmap red
 animation big_dragon
 facings 2
 dragon.x71
@@ -20,4 +18,6 @@ dragon_spellcasting.x32
 dragon_spellcasting.x33
 facings 2
 mina
+face dragon.x71
+magicmap red
 end

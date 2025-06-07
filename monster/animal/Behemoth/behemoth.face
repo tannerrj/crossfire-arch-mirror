@@ -1,5 +1,3 @@
-face behemoth.x31
-magicmap black
 animation behemoth
 facings 2
 behemoth.x31
@@ -11,5 +9,7 @@ behemoth.x72
 behemoth.x73
 behemoth.x72
 mina
+face behemoth.x31
+magicmap black
 end
 

@@ -1,5 +1,3 @@
-face skree.x31
-magicmap black
 animation skree
 facings 2
 skree.x31
@@ -9,4 +7,6 @@ skree.x71
 skree.x72
 skree.x73
 mina
+face skree.x31
+magicmap black
 end

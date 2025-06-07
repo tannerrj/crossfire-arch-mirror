@@ -1,5 +1,3 @@
-face worthless_dragon.x71
-magicmap blue
 animation worthless_dragon
 facings 2
 worthless_dragon.x71
@@ -11,4 +9,6 @@ worthless_dragon.x32
 worthless_dragon.x33
 worthless_dragon.x34
 mina
+face worthless_dragon.x71
+magicmap blue
 end

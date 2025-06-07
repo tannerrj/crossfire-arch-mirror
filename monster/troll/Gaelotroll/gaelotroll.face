@@ -1,5 +1,3 @@
-face gaelotroll.x31
-magicmap blue
 animation gaelotroll
 facings 2
 gaelotroll.x31
@@ -19,4 +17,6 @@ gaelotroll.x72
 gaelotroll.x73
 gaelotroll.x72
 mina
+face gaelotroll.x31
+magicmap blue
 end

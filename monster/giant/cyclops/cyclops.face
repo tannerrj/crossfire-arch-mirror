@@ -1,5 +1,3 @@
-face cyclops.x31
-magicmap khaki
 animation cyclops
 facings 2
 cyclops.x71
@@ -7,4 +5,6 @@ cyclops.x72
 cyclops.x31
 cyclops.x32
 mina
+face cyclops.x31
+magicmap khaki
 end

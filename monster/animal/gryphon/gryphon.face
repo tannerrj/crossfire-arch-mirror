@@ -1,5 +1,3 @@
-face gryphon.x31
-magicmap brown
 animation gryphon
 facings 2
 gryphon.x31
@@ -15,4 +13,6 @@ gryphon.x74
 gryphon.x73
 gryphon.x72
 mina
+face gryphon.x31
+magicmap brown
 end

@@ -1,5 +1,3 @@
-face bigblue_wiz.x11
-magicmap brown
 animation bigblue_wiz
 bigblue_wiz.x11
 bigblue_wiz.x12
@@ -11,5 +9,7 @@ bigblue_wiz.x14
 bigblue_wiz.x13
 bigblue_wiz.x12
 mina
+face bigblue_wiz.x11
+magicmap brown
 end
 
