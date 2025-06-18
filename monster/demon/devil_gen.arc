@@ -29,7 +29,7 @@ weight 400000
 type 79
 subtype 48
 material 64
-value 2500
+value 5
 nrof 1
 client_type 8011
 end

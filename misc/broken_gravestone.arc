@@ -4,7 +4,7 @@ type 79
 subtype 48
 material 64
 weight 100000
-value 40
+value 5
 nrof 1
 name broken gravestone
 name_pl broken gravestones

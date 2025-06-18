@@ -2,7 +2,7 @@ Object table_burl_3
 name table
 face table_burl_3.111
 weight 80000
-value 12000
+value 50
 material 16
 materialname burlwood
 name_pl tables

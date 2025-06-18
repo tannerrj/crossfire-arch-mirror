@@ -7,7 +7,7 @@ animation clock_cw
 anim_speed 20
 client_anim_random 1
 weight 80000
-value 1400
+value 70
 material 20
 materialname cherry
 name_pl clocks
