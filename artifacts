@@ -364,14 +364,14 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 end
 #
 Allowed all
 chance 20
 Object Mass
 type 15
-value -125
+value 0
 cursed 1
 weight 300
 dam 15
@@ -563,7 +563,7 @@ Allowed all
 chance 2
 Object Great Mass
 type 15
-value -125
+value 0
 damned 1
 weight 600
 dam 25
@@ -948,7 +948,7 @@ Allowed !crown
 chance 20
 Object Mass
 type 34
-value -125
+value 0
 cursed 1
 weight 400
 end
@@ -957,7 +957,7 @@ Allowed !crown
 chance 2
 Object Great Mass
 type 34
-value -125
+value 0
 damned 1
 weight 1000
 end
@@ -1013,7 +1013,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 end
 #
 # Crowns start here (subset of helmets )
@@ -1089,7 +1089,7 @@ Allowed all
 chance 20
 Object Mass
 type 33
-value -125
+value 0
 cursed 1
 weight 400
 end
@@ -1098,7 +1098,7 @@ Allowed all
 chance 2
 Object Great Mass
 type 33
-value -125
+value 0
 damned 1
 weight 1000
 end
@@ -1208,7 +1208,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 end
 #
 Allowed all
@@ -1326,7 +1326,7 @@ Allowed all
 chance 20
 Object Mass
 type 16
-value -125
+value 0
 cursed 1
 weight 300
 end
@@ -1335,7 +1335,7 @@ Allowed all
 chance 2
 Object Great Mass
 type 16
-value -125
+value 0
 damned 1
 weight 1000
 end
@@ -1504,7 +1504,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 end
 #
 Allowed plate_mail,b_plate_mail
@@ -2278,7 +2278,7 @@ chance 20
 Object Wizard's Bane
 face ring.117
 type 70
-value 35
+value 0
 msg
   The first one was a guild prank gone wrong. An aspiring guildmaster was given one of these from a fellow member, then asked to perform their normal duties in the guild. They found they couldn't cast anything. When they tried to remove it, it was stuck.
   The guild soon realized it's potential for interfering with rival guilds, and made many more. Most guild's elites quickly learned to not wear unidentified rings as a result, and the rings fell back into disuse, and were ultimately forgotten.
@@ -2329,7 +2329,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 end
 #
 Allowed all
@@ -2471,7 +2471,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 end
 #
 Allowed all
@@ -2487,7 +2487,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 face cloak_black.111
 stand_still 1
 end
@@ -2505,7 +2505,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 face cloak_red.111
 stand_still 1
 end
@@ -2523,7 +2523,7 @@ Int -1
 Pow -1
 Cha -1
 luck -1
-value -125
+value 0
 face cloak_white.111
 stand_still 1
 end
