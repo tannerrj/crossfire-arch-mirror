@@ -5,7 +5,7 @@ type 74
 skill fishing
 material 20
 nrof 1
-value 1500
+value 60
 weight 5000
 name_pl fishing poles
 client_type 451
