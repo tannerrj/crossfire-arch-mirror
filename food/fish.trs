@@ -5,11 +5,11 @@
 ##
 treasure freshwater_fish
 	arch fishfood
-		chance 10
+		chance 20
 		nrof 6
 more
 	arch fish_4
-		chance 10
+		chance 20
 		nrof 4
 end
 
