@@ -10,6 +10,7 @@ weight 3500
 identified 1
 name_pl fish
 client_type 601
+harvestable 1
 harvest_race fish
 harvest_exp 400
 harvest_level 1
