@@ -7,7 +7,7 @@ animation amethyst
 nrof 1
 anim_speed 10
 client_anim_random 1
-value 126
+value 252
 weight 50
 material 64
 identified 1

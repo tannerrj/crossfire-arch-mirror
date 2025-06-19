@@ -8,7 +8,7 @@ race scrolls
 nrof 1
 type 124
 material 1
-value 10000
+value 30000
 weight 200
 sp 4
 identified_name_pl Enchant Weapons
