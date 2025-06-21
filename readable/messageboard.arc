@@ -10,6 +10,8 @@ activate_on_push 1
 activate_on_release 1
 no_pick 1
 client_type 25021
+arch messageboard_apply_event
+end
 arch messageboard_say_event
 end
 end
@@ -26,8 +28,19 @@ activate_on_push 1
 activate_on_release 1
 no_pick 1
 client_type 25021
+arch messageboard_apply_event
+end
 arch messageboard_say_event
 end
+end
+
+Object messageboard_apply_event
+title Python
+slaying /python/IPO/board.py
+type 116
+subtype 1
+face event_apply.111
+invisible 1
 end
 
 Object messageboard_say_event
