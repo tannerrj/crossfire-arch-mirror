@@ -752,9 +752,6 @@ more
 	arch potion_restoration
 		chance 5
 more
-	arch rod_light
-		chance 5
-more
 	list uncommon_items
 		magic 2
 		chance 5
@@ -1220,7 +1217,7 @@ more
 		chance 5
 more
 	arch rod_light
-		chance 5
+		chance 2
 more
 	arch scroll_new
 		nrof 9
@@ -1608,20 +1605,20 @@ end
 ##
 treasureone uncommon_items
 	arch horn
-		chance 5
+		chance 10
 more
 	arch horn2
-		chance 5
+		chance 10
 more
 	arch crown
 		magic 3
-		chance 15
+		chance 3
 more
 	arch rod_light
-		chance 35
+		chance 10
 more
 	arch rod_heavy
-		chance 10
+		chance 5
 more
 	arch ring_spell
 		chance 1

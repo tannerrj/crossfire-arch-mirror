@@ -1291,7 +1291,7 @@ type 100
 resist_physical 2
 wc 4
 weight 95
-value 40
+value 4
 item_power 4
 end
 #

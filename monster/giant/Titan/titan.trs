@@ -25,6 +25,7 @@ more
 	arch high_shield
 more
 	arch bonecrusher
+		chance 20
 more
 	arch plate_mail
 more

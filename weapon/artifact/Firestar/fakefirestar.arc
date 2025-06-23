@@ -13,7 +13,7 @@ material 2
 magic 3
 dam 23
 attacktype 5
-value 400000
+value 40000
 weight 40000
 name_pl Firestars
 client_type 100
