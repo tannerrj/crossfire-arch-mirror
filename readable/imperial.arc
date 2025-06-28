@@ -1,7 +1,7 @@
 Object imperial
 name Imperial Bank Note
 face imperial.111
-race gold and jewels
+race money
 nrof 1
 type 36
 skill literacy

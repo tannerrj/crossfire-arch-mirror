@@ -1,6 +1,6 @@
 Object silvercoin
 name silver coin
-race gold and jewels
+race money
 face silvercoin.111
 nrof 1
 type 36

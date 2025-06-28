@@ -1,6 +1,6 @@
 Object platinacoin
 name platinum coin
-race gold and jewels
+race money
 face plt_coin.111
 nrof 1
 type 36

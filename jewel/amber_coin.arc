@@ -1,6 +1,6 @@
 Object ambercoin
 name amberium coin
-race gold and jewels
+race money
 face amber_coin.111
 nrof 1
 type 36

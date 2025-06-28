@@ -1,7 +1,7 @@
 Object depositbox
 name deposit box
 other_arch close_dbox
-race gold and jewels
+race money
 face depositbox.111
 type 122
 material 66

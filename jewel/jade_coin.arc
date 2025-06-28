@@ -1,6 +1,6 @@
 Object jadecoin
 name jade coin
-race gold and jewels
+race money
 face jade_coin.111
 nrof 1
 type 36

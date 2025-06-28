@@ -1,6 +1,6 @@
 Object goldcoin
 name gold coin
-race gold and jewels
+race money
 face goldcoin.111
 nrof 1
 type 36
