@@ -16,7 +16,7 @@ invisible 1
 range 12
 range_modifier 5
 other_arch detect_magic
-known_magical 1
+spell_detect_magic 1
 msg
 While some people can sense magical fluxes naturally, this spell allows any sorcerer, novice and master alike, to detect them. Casting it reveals objects carried by, or within reach of, the caster that carry enchantments -- although it does not reveal any information about the nature of those enchantments.
 endmsg
