@@ -749,8 +749,8 @@ more
 	arch potion_magic
 		chance 5
 more
-	arch potion_restoration
-		chance 5
+	list restoration_potions
+		chance 10
 more
 	list uncommon_items
 		magic 2
@@ -1223,17 +1223,8 @@ more
 		nrof 9
 		chance 30
 more
-	arch minor_potion_restoration
-		chance 15
-more
-	arch medium_potion_restoration
-		chance 10
-more
-	arch major_potion_restoration
-		chance 5
-more
-	arch potion_restoration
-		chance 5
+    list restoration_potions
+		chance 35
 more
 	arch gem
 		nrof 1
@@ -2244,4 +2235,18 @@ treasure humanoidpockets_medium
 	more
 	list random_knowledge
 		chance 4
+end
+
+treasureone restoration_potions
+	arch minor_potion_restoration
+		chance 15
+more
+	arch medium_potion_restoration
+		chance 10
+more
+	arch major_potion_restoration
+		chance 5
+more
+	arch potion_restoration
+		chance 5
 end
