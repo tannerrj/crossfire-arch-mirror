@@ -1,6 +1,5 @@
 Object brassbar
 name brass bar
-race gold and jewels
 face brassbar.111
 nrof 1
 type 73

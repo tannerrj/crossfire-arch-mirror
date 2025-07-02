@@ -1,6 +1,6 @@
 Object topaz
 name topaz
-race gold and jewels
+race gem
 type 60
 face topaz.111
 animation topaz

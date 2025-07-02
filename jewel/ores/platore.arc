@@ -1,7 +1,6 @@
 Object platore
 name platinum ore
 name_pl platinum ores
-race gold and jewels
 face ore_b.111
 nrof 1
 type 73

@@ -1,6 +1,6 @@
 Object jetstone
 name jet stone
-race gold and jewels
+race gem
 type 60
 face jetstone.111
 nrof 1

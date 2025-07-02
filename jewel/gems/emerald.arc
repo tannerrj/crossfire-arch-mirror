@@ -1,6 +1,6 @@
 Object emerald
 face emerald.111
-race gold and jewels
+race gem
 type 60
 animation emerald
 nrof 1

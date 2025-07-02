@@ -1,7 +1,6 @@
 Object ironore
 name iron ore
 name_pl iron ores
-race gold and jewels
 face ore_r.111
 nrof 1
 type 73

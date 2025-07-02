@@ -1,6 +1,5 @@
 Object goldbar
 name gold bar
-race gold and jewels
 face goldbar.111
 nrof 1
 type 60

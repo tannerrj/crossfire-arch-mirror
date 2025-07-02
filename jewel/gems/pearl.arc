@@ -1,6 +1,6 @@
 Object pearl
 face pearl.111
-race gold and jewels
+race gem
 type 60
 animation pearl
 nrof 1

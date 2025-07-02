@@ -1,7 +1,6 @@
 Object silverblock
 name silver block
 name_pl silver blocks
-race gold and jewels
 face silverblock.111
 nrof 1
 type 60

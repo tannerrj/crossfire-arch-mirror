@@ -1,7 +1,6 @@
 Object zincore
 name zinc ore
 name_pl zinc ores
-race gold and jewels
 face ore_b.111
 nrof 1
 type 73

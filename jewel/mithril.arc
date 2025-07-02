@@ -1,6 +1,5 @@
 Object mithril
 name mithril crystal
-race gold and jewels
 type 73
 face mithril.111
 animation mithril

@@ -1,6 +1,5 @@
 Object platbar
 name platinum bar
-race gold and jewels
 face platbar.111
 nrof 1
 type 60

@@ -1,6 +1,6 @@
 Object opal
 name opal
-race gold and jewels
+race gem
 type 60
 face opal.111
 nrof 1

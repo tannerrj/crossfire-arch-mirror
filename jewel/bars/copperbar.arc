@@ -1,6 +1,5 @@
 Object copperbar
 name copper bar
-race gold and jewels
 face copperbar.111
 nrof 1
 type 73

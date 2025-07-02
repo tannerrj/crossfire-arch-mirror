@@ -1,7 +1,6 @@
 Object platblock
 name platinum block
 name_pl platinum blocks
-race gold and jewels
 face platblock.111
 nrof 1
 type 60

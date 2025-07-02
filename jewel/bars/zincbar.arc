@@ -1,6 +1,5 @@
 Object zincbar
 name zinc bar
-race gold and jewels
 face zincbar.111
 nrof 1
 type 73

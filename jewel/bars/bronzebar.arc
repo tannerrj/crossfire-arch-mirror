@@ -1,6 +1,5 @@
 Object bronzebar
 name bronze bar
-race gold and jewels
 face bronzebar.111
 nrof 1
 type 73

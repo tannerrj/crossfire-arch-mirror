@@ -1,7 +1,6 @@
 Object goldround
 name gold round
 name_pl gold rounds
-race gold and jewels
 face goldround.111
 nrof 1
 type 60

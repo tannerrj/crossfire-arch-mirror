@@ -1,6 +1,5 @@
 Object largenugget
 name large gold nugget
-race gold and jewels
 face nugget_lar.111
 nrof 1
 type 60

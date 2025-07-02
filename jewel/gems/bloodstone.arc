@@ -1,6 +1,6 @@
 Object bloodstone
 name bloodstone
-race gold and jewels
+race gem
 type 60
 face bloodstone.111
 nrof 1

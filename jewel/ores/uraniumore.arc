@@ -1,7 +1,6 @@
 Object uraniumore
 name uranium ore
 name_pl uranium ores
-race gold and jewels
 face ore_y.111
 nrof 1
 type 73

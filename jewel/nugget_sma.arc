@@ -1,6 +1,5 @@
 Object smallnugget
 name small gold nugget
-race gold and jewels
 face nugget_sma.111
 nrof 1
 type 60

@@ -1,6 +1,5 @@
 Object goldblock
 name gold block
-race gold and jewels
 face goldblock.111
 nrof 1
 type 60

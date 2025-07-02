@@ -1,6 +1,6 @@
 Object turquoise
 name turquoise
-race gold and jewels
+race gem
 type 60
 face turquoise.111
 nrof 1

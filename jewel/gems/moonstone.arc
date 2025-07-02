@@ -1,6 +1,6 @@
 Object moonstone
 name moonstone
-race gold and jewels
+race gem
 type 60
 face moonstone.111
 nrof 1

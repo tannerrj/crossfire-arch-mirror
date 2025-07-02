@@ -1,6 +1,6 @@
 Object aquamarine
 name aquamarine
-race gold and jewels
+race gem
 type 60
 face aquamarine.111
 nrof 1

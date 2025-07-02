@@ -1,6 +1,5 @@
 Object uraniumbar
 name uranium bar
-race gold and jewels
 face uraniumbar.111
 nrof 1
 type 73
@@ -19,7 +18,6 @@ end
 
 Object enricheduraniumbar
 name enriched uranium bar
-race gold and jewels
 face uraniumbar.111
 attacktype 4
 dam 5
@@ -41,7 +39,6 @@ end
 
 Object depleteduraniumbar
 name depleted uranium bar
-race gold and jewels
 face uraniumbar.111
 nrof 1
 type 73

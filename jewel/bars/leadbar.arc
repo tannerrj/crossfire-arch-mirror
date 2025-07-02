@@ -1,6 +1,5 @@
 Object leadbar
 name lead bar
-race gold and jewels
 face leadbar.111
 nrof 1
 type 73

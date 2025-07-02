@@ -1,7 +1,6 @@
 Object platround
 name platinum round
 name_pl platinum rounds
-race gold and jewels
 face platround.111
 nrof 1
 type 60

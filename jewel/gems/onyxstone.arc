@@ -1,6 +1,6 @@
 Object onyxstone
 name onyx stone
-race gold and jewels
+race gem
 type 60
 face onyxstone.111
 nrof 1

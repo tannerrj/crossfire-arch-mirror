@@ -1,6 +1,5 @@
 Object silver_filings
 name silver filings
-race gold and jewels
 face silver_filings.111
 nrof 1
 type 60

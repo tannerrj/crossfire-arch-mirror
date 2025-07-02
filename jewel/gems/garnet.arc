@@ -1,6 +1,6 @@
 Object garnet
 name garnet
-race gold and jewels
+race gem
 type 60
 face garnet.111
 nrof 1

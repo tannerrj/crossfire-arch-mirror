@@ -1,7 +1,6 @@
 Object silver frost
 name silver frost
 name_pl silver frosts
-race gold and jewels
 face silver_frost.111
 nrof 1
 type 73

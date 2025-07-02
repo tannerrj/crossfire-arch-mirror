@@ -1,6 +1,5 @@
 Object hugenugget
 name huge gold nugget
-race gold and jewels
 face nugget_huge.111
 nrof 1
 material 2

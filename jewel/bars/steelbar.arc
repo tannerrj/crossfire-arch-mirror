@@ -1,6 +1,5 @@
 Object steelbar
 name steel bar
-race gold and jewels
 face steelbar.111
 nrof 1
 type 73

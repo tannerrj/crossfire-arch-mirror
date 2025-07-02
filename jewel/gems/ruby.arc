@@ -1,6 +1,6 @@
 Object ruby
 face ruby.111
-race gold and jewels
+race gem
 type 60
 animation ruby
 nrof 1

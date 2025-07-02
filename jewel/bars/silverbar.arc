@@ -1,6 +1,5 @@
 Object silverbar
 name silver bar
-race gold and jewels
 face silverbar.111
 nrof 1
 type 60

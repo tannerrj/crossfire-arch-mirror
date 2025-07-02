@@ -1,6 +1,5 @@
 Object ironbar
 name iron bar
-race gold and jewels
 face ironbar.111
 nrof 1
 type 73

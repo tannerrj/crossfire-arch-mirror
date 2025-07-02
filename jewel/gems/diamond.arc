@@ -1,6 +1,6 @@
 Object gem
 name diamond
-race gold and jewels
+race gem
 type 60
 face diamond.111
 animation diamond

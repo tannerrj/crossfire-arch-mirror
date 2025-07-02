@@ -1,6 +1,6 @@
 Object amethyst
 name amethyst
-race gold and jewels
+race gem
 type 60
 face amethyst.111
 animation amethyst

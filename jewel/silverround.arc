@@ -1,7 +1,6 @@
 Object silverround
 name silver round
 name_pl silver rounds
-race gold and jewels
 face silverround.111
 nrof 1
 type 60

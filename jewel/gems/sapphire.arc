@@ -1,6 +1,6 @@
 Object sapphire
 face sapphire.111
-race gold and jewels
+race gem
 type 60
 animation sapphire
 nrof 1

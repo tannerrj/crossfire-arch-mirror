@@ -1,6 +1,5 @@
 Object zinc_filings
 name zinc filings
-race gold and jewels
 face zinc_filings.111
 nrof 1
 type 60
