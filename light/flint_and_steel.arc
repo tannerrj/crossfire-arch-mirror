@@ -3,9 +3,9 @@ face flint_and_steel.111
 name flint and steel
 type 75
 last_eat 1
-food 500
+food 50
 weight 300
-value 2000
+value 200
 material 66
 name_pl flints and steels
 client_type 1101
