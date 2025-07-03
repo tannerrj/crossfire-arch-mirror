@@ -2,6 +2,7 @@ Object hugenugget
 name huge gold nugget
 face nugget_huge.111
 nrof 1
+race nugget
 material 2
 materialname gold
 type 73

@@ -1,7 +1,7 @@
 Object pouch
 name pouch
 other_arch close_pouch
-race money,gem
+race money,gem,nugget
 face pouch.111
 type 122
 material 128

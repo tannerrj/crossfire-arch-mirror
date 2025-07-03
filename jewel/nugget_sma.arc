@@ -3,6 +3,7 @@ name small gold nugget
 face nugget_sma.111
 nrof 1
 type 60
+race nugget
 material 2
 materialname gold
 value 40
