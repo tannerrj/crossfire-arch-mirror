@@ -1,6 +1,5 @@
 Object quiver_throwing
-name quiver
-title of throwing items
+name throwing quiver
 race throwing
 other_arch close_quiver_throwing
 face quiver.111
