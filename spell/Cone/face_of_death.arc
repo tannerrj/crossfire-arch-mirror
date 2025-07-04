@@ -1,7 +1,7 @@
 Object face_of_death
 name deathstrike
 type 102
-subtype 7
+subtype 6
 move_on walk fly_low
 face face_of_death.111
 wc -30
