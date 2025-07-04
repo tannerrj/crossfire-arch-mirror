@@ -14,7 +14,7 @@ path_attuned 262144
 other_arch face_of_death
 dam 24
 dam_modifier 4
-range 0
+range 5
 duration 1
 maxgrace 35
 attacktype 131072
