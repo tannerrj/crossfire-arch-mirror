@@ -1,7 +1,10 @@
 ##
 treasureone shoparchery
 	list missile_weapons
-		chance 99
+		chance 89
+more
+	list shoparchery_ammo
+		chance 10
 more
 	list shoparcheryonly
 		chance 1
@@ -35,3 +38,14 @@ more
 		nrof 30
 end
 
+treasureone shoparchery_ammo
+	arch arrow
+		chance 6
+		magic 3
+		nrof 50
+more
+	arch bolt
+		chance 4
+		magic 3
+		nrof 50
+end
