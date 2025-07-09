@@ -16,4 +16,7 @@ randomitems random_inorganic
 name rubble
 name_pl rubble
 client_type 51
+msg
+Pieces of rock mined from a mountain. Apply it to extract useful minerals.
+endmsg
 end
