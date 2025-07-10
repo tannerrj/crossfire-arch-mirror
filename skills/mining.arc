@@ -11,7 +11,7 @@ body_skill -1
 exp 100
 level 100
 msg
-A strong pair of arms and a sturdy pick is all you need to extract ores from mountainous terrain. Once in hand, they can be sold, or smelted into metal with the Smithery skill.
-Active: Attempt to mine ores from rocky terrain.
+A strong pair of arms and a sturdy pick are all you need to extract ores or minerals from mountainous terrain. Once obtained, they can be sold, smelted into metal using the Smithery skill, or used as reagents with the Alchemy skill.
+Active: Attempt to mine ores from rocky terrain, then apply rubble to uncover your findings.
 endmsg
 end
