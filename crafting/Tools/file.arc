@@ -15,4 +15,9 @@ attacktype 1
 weapontype 1
 dam -2
 last_sp 10
+msg
+endmsg
+A file is used to produce metal filings from a small selection of metal bars.
+Use: use file with <full bar name>
+Example: use file with silver bar
 end
