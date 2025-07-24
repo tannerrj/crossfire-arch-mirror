@@ -21,7 +21,7 @@ maxsp 20
 range 2
 range_modifier 15
 msg
-One of the more esoteric Summoning spells, Counterwall creates a wall that fires cones of contrathaumic energy, disrupting any spell that enters the affected area. An experienced summoner can use this to effectively disable spellcasting in a large area, while leaving the summoner's minions free to operate unhindered.
+One of the more esoteric Summoning spells, Counterwall creates a wall of contrathaumic energy, disrupting any spell that enters the affected area. An experienced summoner can use this to effectively disable spellcasting in a large area, while leaving the summoner's minions free to operate unhindered.
 Like all walls that generate spells, the counterwall has a limited duration and will eventually crumble away.
 endmsg
 move_block all
