@@ -4400,7 +4400,7 @@ exp 35000
 yield 1
 skill thaumaturgy
 cauldron thaumaturg_desk
-ingred holy symbol,10 arrow of Assassinating dragons,vampire's heart
+ingred holy symbol,10 arrow of Assassinating Dragons,vampire's heart
 #
 Object Great Virtue
 arch holy_symbol

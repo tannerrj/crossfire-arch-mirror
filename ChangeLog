@@ -1,3 +1,9 @@
+Update capitalization of Assassinating Dragons (was dragons) in
+the ingredient list for Holy Symbol of the Dark path to match
+the exact spelling syntax of how the arrows appear in the game..
+formulae
+Rick Tanner 2025-08-08
+
 Update Counterwall spell summary (msg) field to better summarize
 the spell summary - just a wall, does not fire anything.
 spell/MagicWall/spell_counterwall.arc
