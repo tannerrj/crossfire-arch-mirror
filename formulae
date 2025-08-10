@@ -1615,7 +1615,7 @@ cauldron cauldron
 ingred torch,water of ruby,pile of sulphur
 #
 # -- darkness
-Object impenatrability
+Object impenetrability
 arch dust_generic
 chance 15
 diff 18
