@@ -454,8 +454,9 @@ Object Kragi
 type 15
 value 50
 magic 3
+Str 1
 Con 1
-dam 11
+dam 15
 item_power 1
 end
 #
