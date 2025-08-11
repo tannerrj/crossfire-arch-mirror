@@ -42,10 +42,10 @@ treasureone shoparchery_ammo
 	arch arrow
 		chance 6
 		magic 3
-		nrof 50
+		nrof 150
 more
 	arch bolt
 		chance 4
 		magic 3
-		nrof 50
+		nrof 150
 end

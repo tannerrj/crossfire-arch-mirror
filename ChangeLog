@@ -1,3 +1,8 @@
+Increase the amount of arrows in large arrow piles from 50 to 150.
+Odds or frequency of the appearance of large arrow piles are unchanged.
+shop/Floors/shoparchery.trs
+Rick Tanner 2025-08-11
+
 Update and improve Kragi weapons to add Str +1 and increase damage
 from 11 to 15
 artifacts
@@ -15,7 +20,7 @@ Rick Tanner 2025-08-08
 
 Update capitalization of Assassinating Dragons (was dragons) in
 the ingredient list for Holy Symbol of the Dark path to match
-the exact spelling syntax of how the arrows appear in the game..
+the exact spelling syntax of how the arrows appear in the game.
 formulae
 Rick Tanner 2025-08-08
 
