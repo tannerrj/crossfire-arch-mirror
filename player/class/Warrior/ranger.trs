@@ -5,6 +5,14 @@ more
 	arch arrow
 		nrof 400
 more
+	arch arrow
+		magic 1
+		nrof 250
+more
+	arch arrow
+		magic 2
+		nrof 150
+more
 	arch quiver
 more
 	arch b_dagger

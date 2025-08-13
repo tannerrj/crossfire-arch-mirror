@@ -1,3 +1,8 @@
+Increase chance of ranger class starting with more arrows, with a small
+chance of +1 and +2 arrows
+player/class/Warrior/ranger.trs
+Rick Tanner 2025-08-13
+
 Increase the amount of arrows in large arrow piles from 50 to 150.
 Odds or frequency of the appearance of large arrow piles are unchanged.
 shop/Floors/shoparchery.trs
