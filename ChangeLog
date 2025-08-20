@@ -1,3 +1,8 @@
+Add a note to the Marking Rune summary explaining that the Disarm spell can be used to
+remove a rune.
+spell/Misc/spell_marking_rune.arc
+Rick Tanner 2025-08-20
+
 Increase chance of ranger class starting with more arrows, with a small
 chance of +1 and +2 arrows
 player/class/Warrior/ranger.trs

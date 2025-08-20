@@ -15,6 +15,6 @@ no_drop 1
 invisible 1
 other_arch rune_mark
 msg
-Some messages are best left unspoken. For such situations, sorcerers can embed a message in a specially crafted rune; when touched, the message is inserted directly into the recipient's mind without ever being spoken aloud.
+Some messages are best left unspoken. For such situations, sorcerers can embed a message in a specially crafted rune; when touched, the message is inserted directly into the recipient's mind without ever being spoken aloud. A marking rune can be removed by using the disarm spell.
 endmsg
 end
