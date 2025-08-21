@@ -10,8 +10,19 @@ Resistances: fire -25, cold +30; immune to poison, ghosthit, and drain
 Attunements: denied fire, attuned cold
 Special: undead (immune to disease), darkvision (can see in the dark)
 ---
-A Wraith is the spirit of a person who has made an evil bargain in order to persist after natural death, or has been forced involuntarily into its current undead state. This transformation frees them of the limits of a natural lifespan, and grants them immunity to diseases, poison, and loss of lifeforce. Wraiths also need feel little fear of cold, and they can see well in the dark. A Wraith's corporeal form has terrible vulnerabilities: fire and most godpower are dangerous to Wraiths. Their tenuous form makes them quick and somewhat hard to hit, but also weaker and less hardy.
-Wraiths have a strong affinity to magic, especially cold spells, and are very strong spellcasters. However, they cannot use fire spells for fear of self-destruction. Wraith also do not heal naturally, or gain sustenance from food. Instead they have to feed off the living.
+A Wraith is the spirit of a person who has either made an evil bargain to persist after natural death or has been involuntarily forced into its undead state.
+
+This transformation frees them from the limits of a natural lifespan and grants them immunity to disease, poison, and the loss of lifeforce.
+
+Wraiths feel little fear of the cold and can see well in darkness.
+
+However, their corporeal form has significant vulnerabilities: fire and most forms of divine power pose a great danger to them.
+
+Their ethereal nature makes them quick and difficult to hit, but also physically weaker and less resilient.
+
+Wraiths possess a strong affinity for magic, especially cold-based spells, making them powerful spellcasters. However, they are unable to use fire spells, as doing so risks self-destruction.
+
+Wraiths do not heal naturally or derive sustenance from food. Instead, they must feed off the living to survive.
 endmsg
 animation wraith_player
 is_animated 1
