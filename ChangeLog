@@ -1,3 +1,7 @@
+Update wraith player summary and lore information for better clarity
+player/race/wraithp.arc
+Rick Tanner 2025-08-21 
+
 Add a note to the Marking Rune summary explaining that the Disarm spell can be used to
 remove a rune.
 spell/Misc/spell_marking_rune.arc
