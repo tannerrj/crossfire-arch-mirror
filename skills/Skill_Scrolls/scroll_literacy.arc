@@ -15,6 +15,6 @@ sp 8
 identified_name_pl scrolls of literacy
 client_type 1021
 msg
-The runes on this scroll have a course texture which allows you to trace them with your finger to active the incantation.
+The runes upon this scroll bear a coarse texture, allowing one to trace them with a finger and awaken the incantation.
 endmsg
 end
