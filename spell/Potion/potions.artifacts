@@ -740,8 +740,8 @@ end
 # -- darkness
 Allowed dust_generic
 chance 1
-Object impenatrability
-face dust_impenatrability.111
+Object impenetrability
+face dust_impenetrability.111
 type 5
 other_arch spell_darkness
 level -20

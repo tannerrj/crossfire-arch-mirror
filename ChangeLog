@@ -1,3 +1,8 @@
+More spelling corrections in Dust of impenetrability (was impenatrability)
+renamed: spell/Potion/dust_impenatrability.base.111.png -> spell/Potion/dust_impenetrability.base.111.png
+spell/Potion/potions.artifacts
+Rick Tanner 2025-Aug-26
+
 Update the msg text to scroll_literacy to correct a grammar error and make the text
 fit a fantasy setting more
 skills/Skill_Scrolls/scroll_literacy.arc
