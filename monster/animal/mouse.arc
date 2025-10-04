@@ -19,4 +19,9 @@ level 1
 speed -0.11
 weight 80
 attack_movement 2
+lore
+A common household pest, mice are known for burrowing into food supplies and, of course, rapidly reproducing.
+Cats, snakes, and other natural predators to mice can delay, and sometimes even prevent, an infestation.
+Removing an established infestation without proper tools is an exercise in folly. A skilled wizard can also usually clean an infestation, albeit at the cost of whatever heirlooms they took residence in.
+endlore
 end
