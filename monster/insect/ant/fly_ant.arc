@@ -22,4 +22,5 @@ lore
 Flying ants are specialized ants whose primary role is reproduction and the creation of new ant colonies. Most are small, and mostly harmless. They often travel relatively large distances on this journey.
 The ants denoted in this bestiary are a bit larger than normal, larger than even the queens of most ant species. These flying ants also seems to be more hostile to passerby than average.
 Mresha Ferrine delineated these ants as from a separate species than common ants, at the cost of a few irritated bites. She traced these ants back to a much larger species that reproduces quickly, with the queen churning out large, aggressive warrior ants at an alarming rate. Presence of these flying ants does not always indicate proximity to the ant colony.
+endlore
 end
