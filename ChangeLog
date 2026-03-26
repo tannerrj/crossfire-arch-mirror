@@ -1,3 +1,10 @@
+New shop graphic and archetype, Trading Post
+shop/trading-post.arc
+shop/trading-post.base.LICENSE
+shop/trading-post.base.x11.png
+shop/trading-post.face
+Rick Tanner 2026-Mar-26
+
 More spelling corrections in Dust of impenetrability (was impenatrability)
 renamed: spell/Potion/dust_impenatrability.base.111.png -> spell/Potion/dust_impenetrability.base.111.png
 spell/Potion/potions.artifacts
