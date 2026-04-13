@@ -2238,7 +2238,8 @@ end
 Allowed all
 chance 50
 Object Halvor
-face ring.117
+face ring_halvor.111
+animation ring_halvor
 type 70
 value 20
 Str 1
