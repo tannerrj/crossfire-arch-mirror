@@ -3579,9 +3579,9 @@ value 10
 weight 90
 material 8448
 materialname adamantium
-food 10
+food -5
 msg
-  These bolts are forged of rare adamantium, a metal harder than any steel yet strangely light in the hand. For all its legendary hardness the metal is brittle, and the bolts shatter somewhat more readily than common iron ones.
+  These bolts are forged of rare adamantium, a metal harder than any steel yet strangely light in the hand. Shafts of this legendary metal shrug off impacts that would splinter common iron, and can be recovered and fired again far more often.
 endmsg
 end
 #

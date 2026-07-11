@@ -1,3 +1,10 @@
+Adamantite bolts are now more durable than common bolts instead of more
+fragile. Their break chance is set to a flat 5% per shot (food -5), half
+that of an ordinary bolt, matching the legendary hardness the metal implies;
+previously food 10 added to the base, doubling the break chance to 20%.
+artifacts
+Rick Tanner 2026-Jul-11
+
 Add descriptive messages to arrow and missile artifacts in the artifacts file
 (Accuracy, inaccuracy, Fire, Frost, Poison, Lightning, Slay Dragon, Magic,
 Blessedness, silver head, Piercing, Adamantite, and the fire explosion, cold
