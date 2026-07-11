@@ -3352,6 +3352,9 @@ Object inaccuracy
 type 13
 wc -7
 cursed 1
+msg
+  These crooked, badly fletched missiles wobble in flight and rarely strike where they are aimed. The shafts themselves are sound enough, surviving as well as any common arrow -- to the lasting frustration of whoever is cursed to keep shooting them.
+endmsg
 end
 #
 Allowed all
@@ -3363,6 +3366,9 @@ value 5
 wc 7
 dam -8
 food 50
+msg
+  These missiles are perfectly weighted and fletched by a master's hand, flying straight to the mark. Such delicate work is fragile, however, and more often than not the shaft shatters where it lands.
+endmsg
 end
 #
 Allowed all
@@ -3373,6 +3379,9 @@ type 13
 dam -8
 value 6
 animation_suffix fire
+msg
+  These missiles have been quenched in elemental flame and their heads still smolder with it, searing whatever they strike. The enchantment does not weaken the shaft, which endures as well as any ordinary arrow.
+endmsg
 end
 #
 Allowed all
@@ -3383,6 +3392,9 @@ type 13
 dam -8
 value 6
 animation_suffix frost
+msg
+  These missiles carry the killing cold of the northern wastes, and thin coating of ice creeps along their heads even in summer air. The frost does the shaft no harm, and they last as long as common arrows.
+endmsg
 end
 #
 Allowed all
@@ -3395,6 +3407,9 @@ dam -8
 value 6
 magic 1
 animation_suffix poison
+msg
+  These missiles have been dipped in venom milked from giant serpents, and even a shallow wound leaves the poison burning in the blood. The shafts are no more fragile than any ordinary missile.
+endmsg
 end
 #
 Allowed all
@@ -3405,6 +3420,9 @@ type 13
 dam -8
 value 6
 animation_suffix lightning
+msg
+  These missiles crackle with stormfire, a spark of Sorig's wrath bound into the head, and they strike with a clap of thunder. The bound lightning leaves the shaft unharmed, sturdy as any common arrow.
+endmsg
 end
 #
 Allowed all
@@ -3428,7 +3446,7 @@ Object Assassinating Trolls
 slaying troll
 attacktype 131072
 msg
-  These missiles are inscribed with powerful runes for the bane of trolls.  A scratch from one of these arrows could smite one dead.
+  These missiles are inscribed with powerful runes for the bane of trolls.  A scratch from one of these arrows could smite one dead. The hardened tips make the shafts a little more brittle than ordinary missiles.
 endmsg
 type 13
 value 500
@@ -3446,7 +3464,7 @@ Object Assassinating Dragons
 slaying dragon
 attacktype 131072
 msg
-  These missiles are inscribed with powerful runes for the bane of dragons.  A scratch from one of these arrows could smite one dead.
+  These missiles are inscribed with powerful runes for the bane of dragons.  A scratch from one of these arrows could smite one dead. The hardened tips make the shafts a little more brittle than ordinary missiles.
 endmsg
 type 13
 value 1000
@@ -3465,7 +3483,7 @@ difficulty 5
 Object Blessedness
 slaying undead,demon
 msg
-  These missiles are invested with a great holiness so that even a scratch might banish an undead creature or a demon back to the hell from which it came.
+  These missiles are invested with a great holiness so that even a scratch might banish an undead creature or a demon back to the hell from which it came. The mortal shaft can scarcely contain so much divine power, and it is almost always consumed when the missile strikes.
 endmsg
 attacktype 131072
 type 13
@@ -3487,6 +3505,9 @@ slaying dragon
 dam -12
 food 10
 animation_suffix slay_dragon
+msg
+  These missiles are tipped with dragonbane, forged to slip between the scales of dragonkind and bite deep. The hardened tips make the shafts a little more brittle than ordinary missiles.
+endmsg
 end
 #
 Allowed arrow,bolt
@@ -3499,7 +3520,7 @@ attacktype 2
 dam -20
 wc 6
 msg
-  These magical arrows are very powerful weapon.
+  These missiles are charged with raw magical force that tears through flesh and armor alike. The enchantment consumes its vessel: the shaft is destroyed by its own power almost every time it strikes.
 endmsg
 food 90
 animation_suffix magic
@@ -3530,6 +3551,9 @@ type 13
 value 5
 slaying vampire
 attacktype 2
+msg
+  These bolts are tipped with pure silver, the one metal that vampires and other creatures of the night cannot abide. Even a glancing hit burns them where steel would merely scratch. The silvered tip does nothing to weaken the bolt, which survives being fired as often as any ordinary one.
+endmsg
 end
 #
 Allowed bolt
@@ -3542,6 +3566,9 @@ dam -25
 wc 6
 weight 150
 food 10
+msg
+  These heavy bolts are forged with a long, narrow head that punches through mail and scale as if through cloth. The extra iron makes them noticeably heavier than common bolts, and the slender point snaps somewhat more easily on impact.
+endmsg
 end
 #
 Allowed bolt
@@ -3553,6 +3580,9 @@ weight 90
 material 8448
 materialname adamantium
 food 10
+msg
+  These bolts are forged of rare adamantium, a metal harder than any steel yet strangely light in the hand. For all its legendary hardness the metal is brittle, and the bolts shatter somewhat more readily than common iron ones.
+endmsg
 end
 #
 Allowed arrow,bolt
@@ -3565,6 +3595,9 @@ arch event_attacks
 title Python
 slaying python/items/spell_arrow.py
 end
+msg
+  These missiles hold a captive fireball that bursts free wherever they strike, engulfing the target in flame. The shaft itself is not consumed by the blast and may often be recovered and fired again.
+endmsg
 end
 #
 Allowed arrow,bolt
@@ -3577,6 +3610,9 @@ arch event_attacks
 title Python
 slaying python/items/spell_arrow.py
 end
+msg
+  These missiles imprison a howling snowstorm that breaks loose on impact, burying the target in ice and wind. The storm spares the shaft, which survives as well as any common missile.
+endmsg
 end
 #
 Allowed arrow,bolt
@@ -3589,6 +3625,9 @@ arch event_attacks
 title Python
 slaying python/items/spell_arrow.py
 end
+msg
+  These missiles carry a sealed philter of poison that shatters on impact, wrapping the target in a cloud of choking fumes. The shaft is untouched by the vapors and can often be retrieved for another shot.
+endmsg
 end
 #
 # Bows

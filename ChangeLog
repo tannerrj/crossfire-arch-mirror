@@ -1,3 +1,12 @@
+Add descriptive messages to arrow and missile artifacts in the artifacts file
+(Accuracy, inaccuracy, Fire, Frost, Poison, Lightning, Slay Dragon, Magic,
+Blessedness, silver head, Piercing, Adamantite, and the fire explosion, cold
+storm, and noxious fumes spell arrows). Each message provides setting-appropriate
+lore and hints at the missile's durability, reflecting the actual break chance
+from its food value.
+artifacts
+Rick Tanner 2026-Jul-11
+
 New shop graphic and archetype, Trading Post
 shop/trading-post.arc
 shop/trading-post.base.LICENSE
