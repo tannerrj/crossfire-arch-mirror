@@ -3382,6 +3382,9 @@ animation_suffix fire
 msg
   These missiles have been quenched in elemental flame and their heads still smolder with it, searing whatever they strike. The enchantment does not weaken the shaft, which endures as well as any ordinary arrow.
 endmsg
+lore
+  Fire arrows were siege weapons long before they were made small enough for personal combat; the earliest accounts describe naval crews using them to ignite enemy rigging. The compact alchemical tip that made them practical for archers was developed much later and is credited, in most sources, to an unnamed Scorn alchemist working in the fourth millenia.
+endlore
 end
 #
 Allowed all

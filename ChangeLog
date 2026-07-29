@@ -1,3 +1,11 @@
+Add new sign archetype dedicated for use on the world map to show distances
+between key locations.
+readable/sign_distance.arc
+readable/sign_distance.base.111.png
+readable/sign_distance.base.LICENSE
+readable/sign_distance.face
+Rick Tanner 2026-Jul-29
+
 Adamantite bolts are now more durable than common bolts instead of more
 fragile. Their break chance is set to a flat 5% per shot (food -5), half
 that of an ordinary bolt, matching the legendary hardness the metal implies;
