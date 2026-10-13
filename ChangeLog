@@ -1,3 +1,9 @@
+Remove the `maxhp` setting from Twisted Sprite. Circumstantial evidence
+suggests that the mismatch between `hp` and `maxhp` was an oversight 
+during map testing.
+monster/misc/twisted_sprite.arc
+Rick Tanner 2026-Oct-13
+
 Add new sign archetype dedicated for use on the world map to show distances
 between key locations.
 readable/sign_distance.arc
