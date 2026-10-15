@@ -1,3 +1,9 @@
+Remove the `maxhp` setting from Belzebub. Circumstantial evidence
+suggests that the mismatch between `hp` and `maxhp` was an oversight
+during map testing.
+monster/giant/Belzebub/belzebub.arc
+Rick Tanner 2026-Oct-15
+
 Remove the `maxhp` setting from Cave Byakie. Circumstantial evidence
 suggests that the mismatch between `hp` and `maxhp` was an oversight
 during map testing.

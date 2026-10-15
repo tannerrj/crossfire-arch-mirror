@@ -37,7 +37,6 @@ Pow 65
 sp 300
 maxsp 300
 hp 20000
-maxhp 15000
 Con 80
 level 75
 alive 1
