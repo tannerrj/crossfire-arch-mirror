@@ -7,6 +7,7 @@ Wis 20
 Pow 75
 Int 30
 hp 10000
+maxhp 10000
 sp 200
 maxsp 200
 exp 500000

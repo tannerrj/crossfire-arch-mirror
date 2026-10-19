@@ -1,3 +1,11 @@
+Add maxhp settings to Valkyrie, Belzebub, Cave Byakie, and Twisted Sprite to
+avoid start up warnings when launching the game server.
+gods/demihumans/valkyrie.arc
+monster/giant/Belzebub/belzebub.arc
+monster/giant/byakie/cave_byakie.arc
+monster/misc/twisted_sprite.arc
+Rick Tanner 2028-Oct-19
+
 Remove the `maxhp` setting from Belzebub. Circumstantial evidence
 suggests that the mismatch between `hp` and `maxhp` was an oversight
 during map testing.
