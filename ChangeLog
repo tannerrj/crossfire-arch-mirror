@@ -1,3 +1,8 @@
+Enlarge the canvas size for the trading post graphic from 150px to
+160px wide.
+shop/trading-post.base.x11.png
+Rick Tanner 2026-Oct-29
+
 Add maxhp settings to Valkyrie, Belzebub, Cave Byakie, and Twisted Sprite to
 avoid start up warnings when launching the game server.
 gods/demihumans/valkyrie.arc
